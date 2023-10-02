@@ -1,2 +1,2 @@
-# bigbinary-interview-for-prasadhande
-bigbinary-price_calculator
+# price_calculatorfor-prasadhande
+price_calculator
